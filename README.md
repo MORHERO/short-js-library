@@ -26,10 +26,10 @@
 ### Detailed function Informations
 
 #### <a name="get-c"></a> Get Elements
-<a name="gc"></a>gc(s) => document.getElementById(s)
-<a name="gi"></a>gi(s) => document.getElementsByClassName(s)
-<a name="gt"></a>gt(s) => document.getElementsByTagName(s)
-<a name="qs"></a>qs(s) => document.querySelector(s)
+<a name="gc">gc(s)</a> => document.getElementById(s)<br/>
+<a name="gi">gi(s)</a> => document.getElementsByClassName(s)<br/>
+<a name="gt">gt(s)</a> => document.getElementsByTagName(s)<br/>
+<a name="qs">qs(s)</a> => document.querySelector(s)<br/>
 
 #### <a name="dev-c"></a> Development
 <a name="cl"></a>cl(s) => console.log(s)
